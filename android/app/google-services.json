@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "865962265958",
+    "firebase_url": "https://kupfuma-62764-default-rtdb.firebaseio.com",
+    "project_id": "kupfuma-62764",
+    "storage_bucket": "kupfuma-62764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865962265958:android:fe717873ceb031969ccca7",
+        "android_client_info": {
+          "package_name": "com.example.kupfuma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865962265958-9lqnaao98qkrns6vhgeh2259bnp812ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAc-ZpsefegQeMoHi-vTBMExnpQdkYiao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865962265958-9lqnaao98qkrns6vhgeh2259bnp812ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865962265958:android:be3ac572de1860a39ccca7",
+        "android_client_info": {
+          "package_name": "com.kupfuma.kupfuma_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865962265958-9lqnaao98qkrns6vhgeh2259bnp812ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAc-ZpsefegQeMoHi-vTBMExnpQdkYiao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865962265958-9lqnaao98qkrns6vhgeh2259bnp812ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
